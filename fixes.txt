@@ -1,0 +1,10 @@
+
+
+to do :
+
+# Show in the Screen the actual score and max score
+
+done :
+
+- Put a Gameover Sound
+- Fix The player movement in the screen
